@@ -1,10 +1,8 @@
-// Load the JSON file using Fetch API
 fetch('../../json/reviews.json')
     .then(response => response.json())
     .then(data => generateTable(data))
     .catch(error => console.error('Error loading JSON:', error));
 
-// Function to generate the table based on filtered JSON data
 function generateTable(data) {
     const artist = document.getElementById('artist').dataset.artist;
     const album = document.getElementById('album').dataset.album;
@@ -15,10 +13,12 @@ function generateTable(data) {
         .filter(review => review.artist === artist && review.album === album)
         .sort((a, b) => a.track - b.track); // Sort by track number
 
-    if (filteredReviews.length === 0) {
-        table.innerHTML = `<tr><td colspan="2">No songs found for ${artist} - ${album}</td></tr>`;
-        return;
-    }
+    // Calculate average rating
+    const totalRatings = filteredReviews.reduce((acc, review) => acc + review.rating, 0);
+    const averageRating = filteredReviews.length > 0 ? (totalRatings / filteredReviews.length).toFixed(2) : 0;
+
+    // Clear previous table content
+    table.innerHTML = '';
 
     // Create the table header
     const thead = document.createElement("thead");
@@ -27,11 +27,11 @@ function generateTable(data) {
 
     // Artist and Album headers
     const artistHeader = document.createElement("th");
-    artistHeader.colSpan = 2;
+    artistHeader.colSpan = 3; // Adjust colspan to 3 to fit average rating
     artistHeader.textContent = artist;
 
     const albumHeader = document.createElement("th");
-    albumHeader.colSpan = 2;
+    albumHeader.colSpan = 3; // Adjust colspan to 3 to fit average rating
     albumHeader.textContent = album;
 
     // Append headers to the table
@@ -59,6 +59,21 @@ function generateTable(data) {
         row.appendChild(ratingCell);
         tbody.appendChild(row);
     });
+
+    // Append average rating row at the end of the table
+    const averageRow = document.createElement("tr");
+    const averageCell = document.createElement("td");
+    const averageSongCell = document.createElement("td");
+    const averageRatingCell = document.createElement("td");
+
+    averageCell.textContent = 'Average Rating';
+    averageCell.colSpan = 2; // Adjust colspan for average rating cell
+    averageRatingCell.textContent = averageRating;
+
+    averageRow.appendChild(averageCell);
+    averageRow.appendChild(averageSongCell); // Empty cell
+    averageRow.appendChild(averageRatingCell);
+    tbody.appendChild(averageRow);
 
     // Append thead and tbody to the table
     table.appendChild(thead);
