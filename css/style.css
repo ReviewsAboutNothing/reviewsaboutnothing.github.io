@@ -45,3 +45,8 @@ hr {
     background-color: black; /* Set the color to black */
     margin: 20px 0; /* Optional: control spacing */
 }
+
+.essays{
+    line-height: 2;
+    font-size: larger;
+}

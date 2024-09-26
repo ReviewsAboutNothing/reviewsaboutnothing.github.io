@@ -50,7 +50,7 @@ function generateTable(data) {
         const songCell = document.createElement("td");
         const ratingCell = document.createElement("td");
 
-        trackCell.textContent = review.track;
+        trackCell.textContent = review.track + ")";
         songCell.textContent = review.song;
         ratingCell.textContent = review.rating;
 
