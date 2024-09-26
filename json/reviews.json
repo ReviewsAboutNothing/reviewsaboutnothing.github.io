@@ -5,6 +5,12 @@
             "album": "Taylor Swift",
             "song": "Tim McGraw",
             "rating": 7
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Picture To Burn",
+            "rating": 10
         }
     ]
 }
