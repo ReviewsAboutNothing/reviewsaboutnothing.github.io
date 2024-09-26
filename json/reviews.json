@@ -4,13 +4,113 @@
             "artist": "Taylor Swift",
             "album": "Taylor Swift",
             "song": "Tim McGraw",
+            "track": 1,
             "rating": 7
         },
         {
             "artist": "Taylor Swift",
             "album": "Taylor Swift",
             "song": "Picture To Burn",
+            "track": 2,
             "rating": 10
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Teardrops On My Guitar",
+            "track": 3,
+            "rating": 5
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "A Place in this World",
+            "track": 4,
+            "rating": 4
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Cold As You",
+            "track": 5,
+            "rating": 6
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "The Outside",
+            "track": 6,
+            "rating": 4
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Tied Together with a Smile",
+            "track": 7,
+            "rating": 10
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Stay Beautiful",
+            "track": 8,
+            "rating": 4
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Should've Said No",
+            "track": 9,
+            "rating": 3
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Mary's Song (Oh My My My)",
+            "track": 10,
+            "rating": 10
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Our Song",
+            "track": 11,
+            "rating": 7
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "I'm Only Mw When I'm With You",
+            "track": 12,
+            "rating": 7
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Invisible",
+            "track": 13,
+            "rating": 7
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "A Perfectly Good Heart",
+            "track": 14,
+            "rating": 3
+        },
+        {
+            "artist": "Taylor Swift",
+            "album": "Taylor Swift",
+            "song": "Teardrops On My Guitar - Pop Version",
+            "track": 15,
+            "rating": 3
+        },
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Femininomenon",
+            "track": 1,
+            "rating": 9
         }
     ]
 }
