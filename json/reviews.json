@@ -111,6 +111,97 @@
             "song": "Femininomenon",
             "track": 1,
             "rating": 9
+        },
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Red Wine Supernova",
+            "track": 2,
+            "rating": 10
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "After Midnight",
+            "track": 3,
+            "rating": 7
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Coffee",
+            "track": 4,
+            "rating": 5
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Casual",
+            "track": 5,
+            "rating": 7
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Super Graphic Ultra Modern Girl",
+            "track": 6,
+            "rating": 6
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "HOT TO GO!",
+            "track": 7,
+            "rating": 6
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "My Kink Is Karma",
+            "track": 8,
+            "rating": 10
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Picture You",
+            "track": 9,
+            "rating": 5
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Kaleidoscope",
+            "track": 10,
+            "rating": 7
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Pink Pony Club",
+            "track": 11,
+            "rating": 10
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Naked In Manhattan",
+            "track": 12,
+            "rating": 8
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "California",
+            "track": 13,
+            "rating": 6
+        },        
+        {
+            "artist": "Chappell Roan",
+            "album": "The Rise and Fall of a Midwest Princess",
+            "song": "Guilty Pleasure",
+            "track": 14,
+            "rating": 10
         }
     ]
 }
