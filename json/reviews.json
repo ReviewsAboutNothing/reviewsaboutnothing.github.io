@@ -105,6 +105,7 @@
             "track": 15,
             "rating": 3
         },
+
         {
             "artist": "Chappell Roan",
             "album": "The Rise and Fall of a Midwest Princess",
@@ -202,6 +203,197 @@
             "song": "Guilty Pleasure",
             "track": 14,
             "rating": 10
+        },
+
+        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "AMERIICAN REQUIEM",
+            "track": 1,
+            "rating": 10
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "BLACKBIIRD",
+            "track": 2,
+            "rating": 7
+        }, 
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "16 CARRIAGES",
+            "track": 3,
+            "rating": 7
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "PROTECTOR",
+            "track": 4,
+            "rating": 7
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "MY ROSE",
+            "track": 5,
+            "rating": 6
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "SMOKE HOUR ★ WILLIE NELSON",
+            "track": 6,
+            "rating": 7
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "TEXAS HOLD 'EM",
+            "track": 7,
+            "rating": 7
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "BODYGUARD",
+            "track": 8,
+            "rating": 6
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "DOLLY P",
+            "track": 9,
+            "rating": 6
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "JOLENE",
+            "track": 10,
+            "rating": 8
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "DAUGHTER",
+            "track": 11,
+            "rating": 7
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "SPAGHETTII",
+            "track": 12,
+            "rating": 5
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "ALIIGATOR TEARS",
+            "track": 13,
+            "rating": 8
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "SMOKE HOUR II",
+            "track": 14,
+            "rating": 6
+        },        
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "JUST FOR FUN",
+            "track": 15,
+            "rating": 7
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "II MOST WANTED",
+            "track": 16,
+            "rating": 8
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "LEVII'S JEANS",
+            "track": 17,
+            "rating": 10
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "FLAMENCO",
+            "track": 18,
+            "rating": 10
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "THE LINDA MARTELL SHOW",
+            "track": 19,
+            "rating": 6
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "YA YA",
+            "track": 20,
+            "rating": 10
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "OH LOUISIANA",
+            "track": 21,
+            "rating": 5
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "DESERT EAGLE",
+            "track": 22,
+            "rating": 6
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "RIIVERDANCE",
+            "track": 23,
+            "rating": 7
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "II HANDS II HEAVEN",
+            "track": 24,
+            "rating": 8
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "TYRANT",
+            "track": 25,
+            "rating": 7
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "SWEET ★ HONEY ★ BUCKIN'",
+            "track": 26,
+            "rating": 8
+        },
+        {
+            "artist": "Beyoncé",
+            "album": "COWBOY CARTER",
+            "song": "AMEN",
+            "track": 27,
+            "rating": 8
         }
     ]
 }
