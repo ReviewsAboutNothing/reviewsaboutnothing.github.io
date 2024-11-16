@@ -246,7 +246,7 @@
             "album": "COWBOY CARTER",
             "song": "SMOKE HOUR ★ WILLIE NELSON",
             "track": 6,
-            "rating": 7
+            "rating": "-"
         },        
         {
             "artist": "Beyoncé",
@@ -267,7 +267,7 @@
             "album": "COWBOY CARTER",
             "song": "DOLLY P",
             "track": 9,
-            "rating": 6
+            "rating": "-"
         },        
         {
             "artist": "Beyoncé",
@@ -302,7 +302,7 @@
             "album": "COWBOY CARTER",
             "song": "SMOKE HOUR II",
             "track": 14,
-            "rating": 6
+            "rating": "-"
         },        
         {
             "artist": "Beyoncé",
@@ -337,7 +337,7 @@
             "album": "COWBOY CARTER",
             "song": "THE LINDA MARTELL SHOW",
             "track": 19,
-            "rating": 6
+            "rating": "-"
         },
         {
             "artist": "Beyoncé",
@@ -384,7 +384,7 @@
         {
             "artist": "Beyoncé",
             "album": "COWBOY CARTER",
-            "song": "SWEET ★ HONEY ★ BUCKIN'",
+            "song": "SWEET ★ HONEY ★ BUCKIIN'",
             "track": 26,
             "rating": 8
         },

@@ -24,8 +24,13 @@ a {
 }
 
 .albumIcon {
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 250px;
+}
+
+.mockupIcon {
+    width: 400px;
+    height: 400px;
 }
 
 table{
